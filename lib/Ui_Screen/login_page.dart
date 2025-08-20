@@ -112,7 +112,7 @@ class _LoginScreenState extends State<LoginScreen> {
               ),
               SizedBox(height: 20),
               Image.asset("assets/login image.png", height: 200),
-              SizedBox(height: 70),
+              SizedBox(height: 50),
               TextField(
                 controller: _nameController,
                 style: TextStyle(fontFamily: MyString.poppins),
